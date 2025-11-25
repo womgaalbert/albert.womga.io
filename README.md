@@ -24,45 +24,41 @@ I’m passionate about:
 ---
 
 # 🔥 **What I’m Working On (2024–2025 Projects)**
-theme: jekyll-theme-minimal
-### 📘 **MAP – Charting Student Math Misunderstandings**  
+
+### <span style="color:#007acc">📘 MAP – Charting Student Math Misunderstandings</span>  
 🔗 **GitHub:** https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings  
-NLP system detecting student misconceptions using transformers and advanced linguistic modeling.
+NLP system detecting student misconceptions using transformers and advanced linguistic modelling.
 
 ---
 
-### 🧠 **ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)**  
+### <span style="color:#009a44">🧠 ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)</span>  
 🔗 **GitHub:** https://github.com/womgaalbert/arc-2025-hybrid  
 Hybrid neural-symbolic model for ARC tasks combining CNN feature extraction with rule-based reasoning.
 
 ---
 
-### ✈️ **FlightRank RecSys Model – Aeroclub Cup 2025**  
+### <span style="color:#ff7f00">✈️ FlightRank RecSys Model – Aeroclub Cup 2025</span>  
 🔗 **GitHub:** https://github.com/womgaalbert/FlightRank-2025  
-Personalized flight ranking engine for business travelers.  
-**Metric:** HitRate@3  
-**Focus:** ranking algorithms, user-intent modeling, group-wise scoring.
+Personalised flight-ranking engine for business travellers (HitRate@3).
 
 ---
 
-### 🎧 **BFRB Gesture Classification – Sensor Fusion**  
+### <span style="color:#d6007d">🎧 BFRB Gesture Classification – Sensor Fusion</span>  
 🔗 **GitHub:** https://github.com/womgaalbert/BFRB-Detection-Sensor-Fusion  
-Multimodal ML system detecting Body-Focused Repetitive Behaviors using IMU, thermopile, and ToF sensor data.  
-**Models:** LSTM, GRU, Transformers, temporal convolution.
+Multimodal ML system detecting Body-Focused Repetitive Behaviours using IMU, thermopile, and ToF sensor data.
 
 ---
 
-### 🔋 **Energy-ARIMA-Forecasting**  
+### <span style="color:#0055ff">🔋 Energy-ARIMA-Forecasting</span>  
 🔗 **GitHub:** https://github.com/womgaalbert/Energy-ARIMA-Forecasting  
-SARIMA & ARIMA forecasting pipeline for U.S. Industrial Energy Production.  
-Includes Box-Cox transformations, diagnostics, and error metrics.
+SARIMA/ARIMA forecasting pipeline for U.S. industrial energy production, including Box-Cox transformations and diagnostics.
 
 ---
 
-### 📸 **ConvNet CIFAR-10 Classifier**  
+### <span style="color:#008080">📸 ConvNet CIFAR-10 Classifier</span>  
 🔗 **GitHub:** https://github.com/womgaalbert/ConvNet-CIFAR10  
-Custom CNN architecture for CIFAR-10 image classification.  
-Includes normalization, augmentation, convolution blocks, dropout, and evaluation.
+Custom CNN architecture for CIFAR-10 image classification using data augmentation and deep learning.
+
 
 ---
 
