@@ -24,7 +24,7 @@ I’m passionate about:
 ---
 
 # 🔥 **What I’m Working On (2024–2025 Projects)**
-
+theme: jekyll-theme-minimal
 ### 📘 **MAP – Charting Student Math Misunderstandings**  
 🔗 **GitHub:** https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings  
 NLP system detecting student misconceptions using transformers and advanced linguistic modeling.
