@@ -1,42 +1,46 @@
 # -----------------------------------------
-# GitHub Pages Configuration
-# Albert TCHAPTCHET WOMGA
+# GitHub Pages / Jekyll config
+# Site: Albert Tchaptchet Womga
 # -----------------------------------------
 
 title: "Albert Tchaptchet Womga"
 description: "AI & Machine Learning Specialist | Data Scientist | Sensor Fusion & Time-Series Expert"
-show_downloads : true 
-theme: jekyll-theme-monimal
 
+# Use an official GitHub Pages theme (this was 'jekyll-theme-monimal' before, which does not exist)
+theme: jekyll-theme-minimal
 
-# --------------------
-# Profile Image
-# --------------------
-# Replace 'my_photo.jpg' with your actual image filename
-logo: assets/img/my_photo.jpg
+# URL settings (optional but recommended)
+url: "https://womgaalbert.github.io"   # your GitHub Pages root URL
+baseurl: ""                            # keep empty for user/organization site
 
-# --------------------
-# Author Information
-# --------------------
+# ------------------------------------------------
+# Profile image (make sure this file exists in your repo)
+# ------------------------------------------------
+# Put your photo at: /assets/img/albert-profile.jpg
+# for example: <repo_root>/assets/img/albert-profile.jpg
+logo: "/assets/img/my_photo.jpg"
+
+# ------------------------------------------------
+# Author / personal info
+# ------------------------------------------------
 author:
   name: "Albert Tchaptchet Womga"
   email: "albtchap@gmail.com"
-  linkedin: "https://www.linkedin.com/in/albert-womga-009a7931/"
-  github: "https://github.com/womgaalbert"
   location: "Ottawa, Ontario, Canada"
+  github: "womgaalbert"
+  linkedin: "albert-womga-009a7931"
 
-# --------------------
-# Social Links
-# --------------------
-minima:
-  social_links:
-    github: womgaalbert
-    linkedin: albert-womga-009a7931
-    email: mailto:albtchap@gmail.com
+# ------------------------------------------------
+# Social links (used by many themes / includes)
+# ------------------------------------------------
+social_links:
+  github: "https://github.com/womgaalbert"
+  linkedin: "https://www.linkedin.com/in/albert-womga-009a7931/"
+  email: "mailto:albtchap@gmail.com"
 
-# --------------------
-# Markdown & Build Settings
-# --------------------
+# ------------------------------------------------
+# Build & markdown settings
+# ------------------------------------------------
 markdown: kramdown
 highlighter: rouge
 
@@ -44,22 +48,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# --------------------
-# SEO Settings
-# --------------------
-seo:
-  type: "Person"
-  name: "Albert Tchaptchet Womga"
-  github_username: "womgaalbert"
-  linkedin: "albert-womga-009a7931"
-  description: "AI & ML Specialist, Data Scientist, specializing in sensor fusion, time-series modeling, NLP, CV, and applied machine learning."
-
-# --------------------
-# Navigation (Optional)
-# --------------------
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
-  - contact.md
-
+# Optional: pages to show in top navigation if your theme supports it
+# (uncomment & adjust if you create these files)
+# header_pages:
+#   - index.md
+#   - projects.md
+#   - about.md
+#   - contact.md
