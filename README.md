@@ -76,7 +76,7 @@ Includes normalization, augmentation, convolution blocks, dropout, and evaluatio
 | **NLP** |  NLTK, Transformers |
 | **Computer Vision** | OpenCV, CNNs |
 | **Big Data** | Spark, Hadoop, PySpark |
-| **Cloud** | AWS, Google Cloud |
+| **Cloud** | Google Cloud |
 | **Data Tools** | Pandas, NumPy, SciPy, Tableau |
 | **Domains** | Education AI, Healthcare analytics, Legal automation, IoT analytics |
 
