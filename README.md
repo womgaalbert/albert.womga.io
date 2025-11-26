@@ -25,9 +25,9 @@ I’m passionate about:
 
 # 🔥 **What I’m Working On (2024–2025 Projects)**
 
-# 🚧 <a1 style="color:blue;">Ongoing Projects (In Progress)</a1>
+# 🚧 Ongoing Projects (In Progress)
 
-## <span style="color:#0055ff">🌾 **CSIRO Image2Biomass Prediction (In Progress)**</span>  
+## <a1 style="color:blue;">🌾 **CSIRO Image2Biomass Prediction (In Progress)**</a1>  
 <a href="https://github.com/womgaalbert/csiro-image2biomass-prediction" style="color:blue;">github.com/womgaalbert/csiro-image2biomass-prediction</a>
 
 RGB image-based pasture biomass prediction using deep learning & multimodal fusion.  
@@ -47,8 +47,6 @@ PyTorch, TIMM, Albumentations, OpenCV, scikit-learn, LightGBM
 Training ensemble models — Expected RMSE ~285 kg DM/ha.
 
 ---
-
-<h3 style="color:blue;">Ongoing Projects [In Progress]</h3>
 
 ##  🧩<a style="color:blue;">**MAP Project Deployment (In Progress)**</a>
 <a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment</a>
@@ -80,7 +78,7 @@ Deploying the MAP misconception detection system as a web-ready service:
 
 # 🔥 **Completed Projects**
 
-## 📘 **1. MAP – Charting Student Math Misunderstandings**  
+## <a style="color🟢;">📘 **1. MAP – Charting Student Math Misunderstandings** </a> 
 🔗 GitHub: **https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings**  
 AI system detecting K–12 math misconceptions from short student explanations.  
 **Highlights:**  
@@ -92,7 +90,7 @@ AI system detecting K–12 math misconceptions from short student explanations.
 
 ---
 
-## 🧠 **2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)**  
+## <a style="color:blue;">🧠 **2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)**  
 🔗 GitHub: **https://github.com/womgaalbert/arc-2025-hybrid**  
 Hybrid AI system designed for ARC reasoning tasks integrating:  
 - CNN / U-Net for visual grid feature extraction  
