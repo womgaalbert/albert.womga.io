@@ -142,7 +142,7 @@ Personalised recommendation system for business-traveller flights.
 ---
 
 ## **<a style="color:green;">🎧 4. BFRB Gesture Classification – Sensor Fusion</a>**  
-🔗 GitHub: <a href="https://github.com/womgaalbert/BFRB-Detection-Sensor-Fusion" style="color:blue;">github.com/womgaalbert/BFRB-Detection-Sensor-Fusion</a>
+🔗 GitHub: <a href="https://github.com/womgaalbert/Detect-Behavior-with-Sensor-Data" style="color:blue;">github.com/womgaalbert/BFRB-Detection-Sensor-Fusion</a>
 
 Multimodal time-series classification for detecting **Body-Focused Repetitive Behaviours (BFRBs)**.  
 **Modalities:**  
@@ -174,7 +174,7 @@ Includes full notebook, visualisations & diagnostics.
 
 ## **<a style="color:green;">📸 6. ConvNet CIFAR-10 Classifier </a>**
 
-🔗 GitHub: <a href="https://github.com/womgaalbert/ConvNet-CIFAR10" style="color:blue;">github.com/womgaalbert/ConvNet-CIFAR10</a>
+🔗 GitHub: <a href="https://github.com/womgaalbert/Convnet-On-CIFAR-10" style="color:blue;">github.com/womgaalbert/ConvNet-CIFAR10</a>
 
 Custom CNN trained from scratch for CIFAR-10 image classification.  
 **Components:**  
