@@ -212,7 +212,7 @@ Side-by-side comparison of **MLP** and **CNN** on **MNIST**, each tested with Dr
 - ML for policy optimization and student performance  
 - Predictive models for resource allocation  
 
-### **Biostatistician – Chantal Biya Foundation (Healthcare)**  
+### **Biostatistician – Faculty of Medicine of the University of Yaounde I (Healthcare)**  
 - Predictive clinical modeling  
 - AI-supported biostatistics  
 - Pediatric health analytics  
