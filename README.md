@@ -1,7 +1,7 @@
 # ⭐ **Albert TCHAPTCHET WOMGA**  
 ### *AI & Machine Learning Specialist | Data Scientist |  Expert*
 
-[![Email](https://img.shields.io/badge/Email-albtchap%40gmail.com-red?style=flat&logo=gmail)](mailto:albtchap@gmail.com)
+[![Email](https://img.shields.io/badge/Email-albertwomga@albwt.com-red?style=flat&logo=gmail)](mailto:albertwomga@albwt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert%20Womga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/albert-womga-009a7931/)
 [![GitHub](https://img.shields.io/badge/GitHub-womgaalbert-black?style=flat&logo=github)](https://github.com/womgaalbert)
 ![Location](https://img.shields.io/badge/Location-Ottawa%2C%20Ontario-green?style=flat)
