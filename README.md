@@ -48,19 +48,6 @@ Training ensemble models — Expected RMSE ~285 kg DM/ha.
 
 ---
 
-##  **🧩<a1 style="color:blue;">MAP Project Deployment (In Progress)</a1>**
-<a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings-Deployment" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment</a>
-
-Deploying the MAP misconception detection system as a web-ready service:  
-- API design using FastAPI  
-- Web app built with Streamlit  
-- Docker containerisation for portability  
-- Real-time student input inference  
-- Educator-facing UI for misconception insights  
-
----
-
-
 # 💼 **Technical Expertise**
 
 | Category | Tools & Technologies |
@@ -102,6 +89,28 @@ Deploying the MAP misconception detection system as a web-ready service:
 
 
 # 🔥 **Completed Projects**
+.
+## **<a1 style="color:blue;">🌾 1- CSIRO Image2Biomass Prediction (In Progress)</a1>**  
+<a href="https://github.com/womgaalbert/csiro-image2biomass-prediction" style="color:blue;">github.com/womgaalbert/csiro-image2biomass-prediction</a>
+
+RGB image-based pasture biomass prediction using deep learning & multimodal fusion.  
+**Challenge:** Kaggle CSIRO Image2Biomass Challenge  
+**Target:** RMSE < **300 kg DM/ha**  
+### **Approach:**  
+- CNN ensemble (EfficientNet, ConvNeXt, Swin, ViT)  
+- PEFT (LoRA) for fine-tuning  
+- FiLM-based metadata fusion (NDVI, height, site, season)  
+- Multi-task learning (biomass + NDVI + height prediction)  
+- Advanced augmentation (CutMix, MixUp, perspective correction)  
+- 5-fold GroupKFold cross-validation  
+- TTA + isotonic calibration + LightGBM stacking  
+### **Tech Stack:**  
+PyTorch, TIMM, Albumentations, OpenCV, scikit-learn, LightGBM  
+### **Status:**  
+Training ensemble models — Expected RMSE ~285 kg DM/ha.
+
+---
+
 
 ## **<a style="color:green;">📘 1. MAP – Charting Student Math Misunderstandings</a>**
 🔗 GitHub: <a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings</a>
@@ -114,7 +123,13 @@ AI system detecting K–12 math misconceptions from short student explanations.
 - Evaluation using multi-class F1-score  
 - Full training + production-ready pipeline  
 
----
+Deploying the MAP misconception detection system as a web-ready service:  
+- API design using FastAPI  
+- Web app built with Streamlit  
+- Docker containerisation for portability  
+- Real-time student input inference  
+- Educator-facing UI for misconception insights  
+
 
 ## **<a style="color:green;">🧠 2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)</a>**
 🔗 GitHub: <a href="https://github.com/womgaalbert/arc-2025-hybrid" style="color:blue;">github.com/womgaalbert/arc-2025-hybrid</a>
