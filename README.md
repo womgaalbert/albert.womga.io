@@ -23,30 +23,84 @@ I’m passionate about:
 
 ---
 
-# 🔥 **What I’m Working On (2024–2025 Projects)**
+# 🔥 **What I’m Working On (2025–2026 Projects)**
 
 # 🚧 Ongoing Projects (In Progress)
 
-## **<a1 style="color:blue;">🌾 CSIRO Image2Biomass Prediction (In Progress)</a1>**  
-<a href="https://github.com/womgaalbert/csiro-image2biomass-prediction" style="color:blue;">github.com/womgaalbert/csiro-image2biomass-prediction</a>
+## ⚖️ **Relevatax (In Progress)**
+[github.com/womgaalbert/relevatax](https://github.com/womgaalbert/relevatax)
 
-RGB image-based pasture biomass prediction using deep learning & multimodal fusion.  
-**Challenge:** Kaggle CSIRO Image2Biomass Challenge  
-**Target:** RMSE < **300 kg DM/ha**  
-### **Approach:**  
-- CNN ensemble (EfficientNet, ConvNeXt, Swin, ViT)  
-- PEFT (LoRA) for fine-tuning  
-- FiLM-based metadata fusion (NDVI, height, site, season)  
-- Multi-task learning (biomass + NDVI + height prediction)  
-- Advanced augmentation (CutMix, MixUp, perspective correction)  
-- 5-fold GroupKFold cross-validation  
-- TTA + isotonic calibration + LightGBM stacking  
-### **Tech Stack:**  
-PyTorch, TIMM, Albumentations, OpenCV, scikit-learn, LightGBM  
-### **Status:**  
-Training ensemble models — Expected RMSE ~285 kg DM/ha.
+Intelligent legal and tax data extraction, processing, and automation platform.
+
+### *Approach*:
+- Build robust ingestion pipelines for complex tax documents and legal data feeds.
+- Implement specialized NLP parsing, entity extraction, and contextual categorization.
+- Optimize retrieval mechanics to ensure high-precision legal and financial context mapping.
+- Deploy secure, containerized edge functions for real-time inference and seamless API integration.
+
+### *Tech Stack*:
+Python, Supabase, PostgreSQL, Docker, FastAPI, Transformers
+
+### *Status*:
+Architecting core ingestion pipelines and text processing modules.
 
 ---
+
+## 📘 **Student Plurilingual Representation & French Learning (In Progress)**
+[github.com/womgaalbert/Student-Plurilingual-Representation-French-Learning](https://github.com/womgaalbert/Student-Plurilingual-Representation-French-Learning)
+
+An AI-driven educational framework leveraging NLP to analyze plurilingual students' language representations and optimize French learning pathways.
+
+### *Approach*:
+- Design deep learning and transformer-based NLP models to map cross-linguistic transfer patterns in student writing and speech.
+- Analyze how prior linguistic backgrounds (plurilingual frameworks) impact French language acquisition and cognitive mapping.
+- Implement contextual classification and token-level error diagnostics to provide adaptive feedback for learners.
+- Build structured data pipelines to process longitudinal student performance metrics and linguistic features.
+
+### *Tech Stack*:
+Python, PyTorch, Transformers (BERT/mBERT), scikit-learn, NLTK, Pandas
+
+### *Status*:
+Developing specialized text-tokenization modules and training baseline multi-language embedding models.
+
+[github.com/womgaalbert/...](https://github.com/womgaalbert/Student-Plurilingual-Representation-French-Learning) | [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://student-plurilingual-representation-french-learning-htyukpvkoo.streamlit.app/)
+
+## ⚖️ CM Avocats Web Platform & Automation (In Progress)
+[github.com/womgaalbert/cmavocat-website](https://github.com/womgaalbert/cmavocat-website)
+
+Production-ready web platform and automation infrastructure for legal services, optimizing operations and client management.
+
+### Approach:
+- Build and deploy automated edge functions to sync real-time legal data feeds and client interaction metrics.
+- Develop secure, data-centric backend structures to handle sensitive legal documentation and financial scheduling workflows.
+- Implement robust encryption and automated backup protocols ensuring compliance with legal data security standards.
+- Integrate business logic layers and webhooks for automated client notifications and intelligent consultation scheduling.
+
+### Tech Stack:
+Python, Supabase, PostgreSQL, JavaScript, Docker, GitHub Actions
+
+### Status:
+Deploying edge computing modules and perfecting automated legal feed integration streams.
+
+---
+
+## 📊 CPA Accounting Platform & Automation (In Progress)
+[github.com/womgaalbert/siteCPA](https://github.com/womgaalbert/siteCPA)
+
+Automated web application and accounting data infrastructure tailored for CPA firms to streamline practice management and client portal interactions.
+
+### Approach:
+- Engineer secure data intake workflows to parse and organize client financial documents and tax records.
+- Implement robust relational schema configurations utilizing PostgreSQL for audit trail compliance.
+- Build internal business analytics tracking mechanisms to enhance reporting visibility and platform transparency.
+- Optimize server-side caching and state handling for fast, high-concurrency client dashboard interactions.
+
+### Tech Stack:
+Python, PostgreSQL, Supabase, JavaScript, Tailwind CSS
+
+### Status:
+Structuring relational schemas and setting up secure file ingestion pipelines.
+
 
 # 💼 **Technical Expertise**
 
